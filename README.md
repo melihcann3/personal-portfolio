@@ -1,4 +1,4 @@
-# Fake News Detection with BERT & Flask
+# Personal Portfolio
 
 Bu proje, kişisel bir portfolyo oluşturmak ve başka kullanıcıların o kişi ile ilgili bilgi almasına daha sonrasında ise o kişi ile iletişime geçmek isterse kullanabileceği bir web sitesidir. 
 
