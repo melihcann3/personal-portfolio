@@ -23,7 +23,10 @@ Bu proje, kişisel bir portfolyo oluşturmak ve başka kullanıcıların o kişi
 ## Geliştirici Notları
 - Kendi portfolyosunu oluşturacak kişinin yukarıda proje yapısında bahsettiğim şekilde fotoğraflarını ekleyip ismini oraya göre düzenlemesi gerekir.
 - HTML kodlarında bulunan metin kısımlarından kendi kişisel bilgileriniz ile derleyerek kendinize ait bir web sayfası oluşturabilirsiniz.
+- İletişim kısmındaki sosyal medya adresleri de kişiselleştirilmelidir.
+- Projelerin yönlendirildiği github adreslerinin ilgili proje ile eşleştirilmesi gerekir.
 - Daha sonrasında proje geliştirilerek eklenecek javasc dosyaları ile iletişim sayfasındaki portfolyo sahibi kişiye ulaşma kısmı aktif hale gelecektir.
+  
 
 ---
 
